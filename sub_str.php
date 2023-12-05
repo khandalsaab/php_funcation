@@ -16,7 +16,8 @@ echo substr("good evening",3);
 echo"<br>";
 
 
-echo substr("good night",2);
+echo substr("good night",2
+);
 echo"<br>";
 
 ?>

@@ -11,6 +11,11 @@ $hunter=" Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod nulla, d
 
 echo strpos($hunter,"atque");
 
+echo "<br>";
+
+$b="hello world";
+
+echo strpos($b,"o");
 
 ?>
 
