@@ -20,6 +20,13 @@ $alpha=" Lorem, ipsum dolor sit amet consectetur adipisicing elit. Et ad quos vo
 
 print_r(explode("lorem", $alpha));
 
+echo"<br>";
+
+$string = "apple,orange,banana";
+$array = explode(",", $string);
+
+print_r($array);
+
 
 ?> 
 
